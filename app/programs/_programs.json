@@ -1,0 +1,14 @@
+{
+	"description":"If this file is present, the application will search only for those files defined in \"programs\", and then list what it finds in the same order.",
+	"programs":
+	[
+		"Home.json",
+		"Isolate.json",
+		"Transport.json",
+		"Image.json",
+		"Store.json",
+		"FunnelSwap.json",
+		"Recycle_NoImaging.json"
+	],
+	"default":"FunnelSwap.json"
+}

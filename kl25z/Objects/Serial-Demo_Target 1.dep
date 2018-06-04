@@ -1,0 +1,66 @@
+Dependencies for Project 'Serial-Demo', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src\delay.c)(0x5A4BFE6B)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\delay.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.H)(0x585C24CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898F24A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x59D5152E)
+F (.\src\LEDs.c)(0x59D5152E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\leds.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\leds.crf --depend .\objects\leds.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.H)(0x585C24CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898F24A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x59D5152E)
+I (.\inc\LEDs.h)(0x59D5152E)
+I (.\inc\gpio_defs.h)(0x59D5152E)
+F (.\src\main.c)(0x5A4C004B)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\main.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.H)(0x585C24CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898F24A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x59D5152E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588C2C04)
+I (.\inc\gpio_defs.h)(0x59D5152E)
+I (.\inc\UART.h)(0x59D5152E)
+I (.\inc\queue.h)(0x59D5152E)
+I (.\inc\LEDs.h)(0x59D5152E)
+I (.\inc\timers.h)(0x59D5152E)
+I (.\inc\delay.h)(0x59D5152E)
+F (.\src\queue.c)(0x59D5152E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\queue.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (.\inc\queue.h)(0x59D5152E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.h)(0x585C24CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898F24A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x59D5152E)
+F (.\src\timers.c)(0x59D5152E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\timers.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (.\inc\timers.h)(0x59D5152E)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.h)(0x585C24CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898F24A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x59D5152E)
+F (.\src\UART.c)(0x5A4BE167)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\uart.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (.\inc\UART.h)(0x59D5152E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.H)(0x585C24CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898F24A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x59D5152E)
+I (.\inc\queue.h)(0x59D5152E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588C2C04)
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x59D5152E)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst --xref -o .\objects\startup_mkl25z4.o --depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x59D5152E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\system_mkl25z4.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\system_mkl25z4.crf --depend .\objects\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C2C04)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.h)(0x585C24CA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898F24A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898F24A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x59D5152E)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x59D5152E)()

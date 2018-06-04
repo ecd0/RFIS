@@ -1,0 +1,15 @@
+[
+	{"description":"Directs moving parts to their home positions. (WARNING: Calibrate positions before executing. Does not do any interference checking.)"},
+	{
+		[
+			{"command":"Move",
+			 "motor":[1,2,3,4,5],
+			 "position":0},
+			 {
+				 }
+		 ],
+		 
+		 [
+		 ]
+	]
+]
