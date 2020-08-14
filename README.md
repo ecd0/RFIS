@@ -9,4 +9,4 @@ There are three main software components, each in a different language:
 - MATLAB: GUI, image processing and Python->MATLAB communication
 - Python: command API, communication process, and sequencing engine for automation.
 
-(Although we've all graduated, this project is still being actively developed, so please pardon the mess.)
+This code is longer being developed, but I believe the project is still getting worked on by subsequent teams.
